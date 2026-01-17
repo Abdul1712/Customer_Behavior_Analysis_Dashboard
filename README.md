@@ -47,6 +47,4 @@ The Power BI dashboard highlights key metrics such as customer segments, sales t
 5. Execute SQL queries provided in the repository
 6. Open the Power BI file to view the dashboard
 
----
 
-If you want, I can also **customize this README to match a specific job role (Data Analyst / Business Analyst / Power BI Analyst)** or make it **ATS-optimized**.
